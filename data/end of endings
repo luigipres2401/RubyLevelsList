@@ -1,0 +1,42 @@
+{
+    "id": 145926464,
+    "name": "end of endings",
+    "author": "Diamondflow",
+    "creators": ["Diamondflow"],
+    "verifier": "Diamondflow",
+    "verification": "https://www.youtube.com/watch?v=1iVb1Edf3-k",
+    "percentToQualify": "78",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "https://www.youtube.com/watch?v=6V9HnCshjUs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Ooncle",
+            "link": "https://www.youtube.com/watch?v=qAEEOMiZmck",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "NM",
+            "link": "https://youtu.be/tRNeJ_BzbKA",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://youtu.be/AUagYw6wFMM?si=m98zGgZXoK-5r6ZP",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

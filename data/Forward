@@ -1,0 +1,48 @@
+{
+    "id": 141777375,
+    "name": "Forward",
+    "author": "HelloItsMee",
+    "creators": ["HelloItsMee"],
+    "verifier": "HelloItsMee",
+    "verification": "https://www.youtube.com/watch?v=TA-8cGgtIzA",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Arczenn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "LuigiPres1",
+            "link": "https://youtu.be/iKLaTHMxwlk?si=2V0lit7APQ5eorSs",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "4point5",
+            "link": "https://youtu.be/PzeSiIArxrA",
+            "percent": 100,
+            "hz": 144
+          },  
+          {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+          },
+          {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "DaReal",
+            "link": "https://youtu.be/8TwLtl51Jfc?si=qDiFJRHf6lzJyrxE",
+            "percent": 100,
+            "hz": 60
+          }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 137038322,
+    "name": "ZirkonX Gets Coffee",
+    "author": "TesseractYT",
+    "creators": ["TesseractYT"],
+    "verifier": "TesseractYT",
+    "verification": "https://www.youtube.com/watch?v=wjz1jgfOM9c",
+    "percentToQualify": "79",
+    "password": "Free To Copy",
+    "records": [
+{
+            "user": "ignacus",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+{
+            "user": "Arczenn",
+            "link": "https://youtu.be/vOqXVd1efCY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "4point5",
+            "link": "https://www.youtube.com/watch?v=c3i_vEmV2WI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Diamondflow",
+            "link": "https://www.youtube.com/watch?v=OubLc7Dr2pE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://www.youtube.com/watch?v=ePRBNW4dTKM",
+            "percent": 100,
+            "hz": 60
+        },
+          {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+          },
+          {
+            "user": "TwoCandy09",
+            "link": "https://youtu.be/bYKyTSKZXoo",
+            "percent": 100,
+            "hz": 144
+          }
+    ]
+}

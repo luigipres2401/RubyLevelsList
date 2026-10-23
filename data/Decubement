@@ -1,0 +1,72 @@
+{
+    "id": 135177690,
+    "name": "Decubement",
+    "author": "TesseractYT",
+    "creators": ["TesseractYT"],
+    "verifier": "TesseractYT",
+    "verification": "https://youtu.be/8J_kr5nslqI?si=7om8MVrWqbN2mVyp",
+    "percentToQualify": "20",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ignacus",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Dullie",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ruby",
+            "link": "https://www.youtube.com/watch?v=uCP3xy2Dp1g&t=78s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "4point5",
+            "link": "none",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Vanity485_",
+            "link": "none",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Diamondflow",
+            "link": "none",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://www.youtube.com/watch?v=K1gy7SvSElU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DaReal",
+            "link": "https://www.youtube.com/watch?v=eTuKUK5kWOo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Arczenn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Murel",
+            "link": "",
+            "percent": 81,
+            "hz": 60
+        }
+    ]
+}

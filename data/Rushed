@@ -1,0 +1,72 @@
+{
+    "id": 137091407,
+    "name": "Rushed",
+    "author": "Veinticomma",
+    "creators": ["Veinticomma"],
+    "verifier": "Veinticomma",
+    "verification": "hhttps://www.youtube.com/watch?v=uvLd9doA4T0",
+    "percentToQualify": 32,
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "ignacus",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ApolloDerg",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "4point5",
+            "link": "https://www.youtube.com/watch?v=uvLd9doA4T0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "HelloItsMee",
+            "link": "https://www.youtube.com/watch?v=u2JBozBT8yo&t=400s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Vanity485_",
+            "link": "https://www.youtube.com/watch?v=DAeFqbjDqEE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Hydrogen",
+            "link": "https://youtu.be/8ZUKqTM_cjM",
+            "percent": 100,
+            "hz": 60
+        },
+          {
+            "user": "Arczenn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "LuigiPres1",
+            "link": "https://www.youtube.com/watch?v=A2E6gOQcLr8",
+            "percent": 100,
+            "hz": 60
+          },
+        {
+            "user": "icg",
+            "link": "https://www.youtube.com/watch?v=2962Z93Npbw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

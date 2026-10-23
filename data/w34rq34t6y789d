@@ -1,0 +1,48 @@
+{
+    "id": 145491487,
+    "name": "w34rq34t6y789d",
+    "author": "Vanity485_",
+    "creators": ["Vanity485_"],
+    "verifier": "Vanity485_",
+    "verification": "https://www.youtube.com/watch?v=Oaq8fmv9xgo",
+    "percentToQualify": "65",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "https://youtu.be/SXRY-T-m21o",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Hydrogen",
+            "link": "https://youtu.be/Cl7kmtFkdok",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://youtu.be/Q93vtSL5zYw?si=axScTId4phId9XEq",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TwoCandy09",
+            "link": "https://youtu.be/O-Qmt3YsKtM",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+            {
+                "user": "Arczenn",
+                "link": "",
+                "percent": 100,
+                "hz": 60
+            }
+    ]
+}

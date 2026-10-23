@@ -1,0 +1,42 @@
+{
+    "id": 142692788,
+    "name": "Normal sqll level",
+    "author": "HelloItsMee",
+    "creators": ["HelloItsMee"],
+    "verifier": "HelloItsMee",
+    "verification": "https://www.youtube.com/watch?v=K9lfP6JiSRc",
+    "percentToQualify": "62",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LuigiPres1",
+            "link": "https://www.youtube.com/watch?v=5khj6LPpO2M",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "4point5",
+            "link": "https://youtu.be/PzeSiIArxrA",
+            "percent": 100,
+            "hz": 144
+          },  
+          {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+          },
+          {
+            "user": "DaReal",
+            "link": "https://youtu.be/kpF9lijl0uk?si=yasNkTyjHDn2XHR1",
+            "percent": 100,
+            "hz": 60
+          },
+       {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

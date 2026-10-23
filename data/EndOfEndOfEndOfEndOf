@@ -1,0 +1,60 @@
+{
+    "id": 141256503,
+    "name": "EndOfEndOfEndOfEndOf",
+    "author": "HelloItsMee",
+    "creators": ["HelloItsMee", "DiamondFlow"],
+    "verifier": "HelloItsMee",
+    "verification": "https://www.youtube.com/watch?v=6e32LYw6ar8",
+    "percentToQualify": "60",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "https://www.youtube.com/watch?v=yNpSsV4FMGM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Vanity485_",
+            "link": "https://youtube.com/watch?v=rEYeIuYDpcU&si=T-nonduD1i6kd4eY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zed",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://youtu.be/bFnIutpVjPU?si=LASwg9U4iNoNfMli",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "DaReal",
+            "link": "https://youtu.be/xbGeAyB-g_U?si=Ys9wZ1vP6twuVoZy",
+            "percent": 100,
+            "hz": 60
+          },
+       {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+          {
+            "user": "BlahajLove",
+            "link": "https://youtu.be/UnLfK6I-fGc",
+            "percent": 100,
+            "hz": 144
+          },
+            {
+                "user": "Arczenn",
+                "link": "",
+                "percent": 100,
+                "hz": 60
+            }
+    ]
+}

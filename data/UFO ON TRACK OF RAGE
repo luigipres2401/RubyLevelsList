@@ -1,0 +1,60 @@
+{
+    "id": 132334584,
+    "name": "UFO ON TRACK OF RAGE",
+    "author": "TesseractYT",
+    "creators": ["TesseractYT"],
+    "verifier": "TesseractYT",
+    "verification": "https://www.youtube.com/watch?v=b2u-zEWIX7o",
+    "percentToQualify": "80",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ignacus",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+       },
+        {
+            "user": "DaReal",
+            "link": "https://youtu.be/W8XjNcqx-iU?is=D2Dhan38EFhMEnHO",
+            "percent": 100,
+            "hz": 60
+       },
+        {
+            "user": "Hydrogen",
+            "link": "https://youtu.be/Cl7kmtFkdok",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Arczenn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "https://www.youtube.com/watch?v=MU8rQUG_S-Y",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Murel",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

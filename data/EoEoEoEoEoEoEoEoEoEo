@@ -1,0 +1,24 @@
+{
+    "id": 147526629,
+    "name": "EoEoEoEoEoEoEoEoEoEo",
+    "author": "Vanity485_",
+    "creators": ["Vanity485_"],
+    "verifier": "Vanity485_",
+    "verification": "https://youtu.be/gNEjmvz0VbQ",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "https://youtu.be/AhOGfsEutcg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "LuigiPres1",
+            "link": "",
+            "percent": 99,
+            "hz": 60
+        }
+    ]
+}

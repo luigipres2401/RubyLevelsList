@@ -1,0 +1,48 @@
+{
+    "id": 148938721,
+    "name": "Ggs Vanity",
+    "author": "Murel",
+    "creators": ["Murel"],
+    "verifier": "Murel",
+    "verification": "https://www.youtube.com/watch?v=OxzpNntNtIo",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "4point5",
+            "link": "https://www.youtube.com/watch?v=OxzpNntNtIo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DaReal",
+            "link": "https://youtu.be/yHKeTPn4XnQ?si=DOHZ9BelI0Ga6-W2",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Vanity485_",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Arczenn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HelloItsMee",
+            "link": "https://youtu.be/ZF5DFc-0CeY",
+            "percent": 100,
+            "hz": 60
+        },
+          {
+            "user": "ignacus",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+          }
+    ]
+}
