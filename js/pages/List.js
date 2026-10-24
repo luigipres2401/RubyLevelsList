@@ -54,6 +54,9 @@ export default {
                             <div class="type-title-sm">Type</div>
                             <p>{{ level.type }}</p>
                         </li>
+                    <li>
+                        <div class="type-title-sm">Tier</div>
+                        <p>{{ level.tier }}</p>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
